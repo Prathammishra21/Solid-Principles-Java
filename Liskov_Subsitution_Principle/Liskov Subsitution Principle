@@ -1,0 +1,5 @@
+It was introduced by Barbara Liskov. It applies to inheritance in such a way that derived class must be completely
+subsitutable for their base classes.
+
+ It states that objects of a superclass should be replaceable with objects of its subclasses without affecting the
+correctness of the program.
