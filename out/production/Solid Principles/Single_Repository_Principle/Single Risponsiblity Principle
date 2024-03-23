@@ -1,8 +1,0 @@
-Notes on Single Responsibility Principle
-
-The single responsibility principle states that every java class must perform a single functionality .
-
-Implementation of multiple functionalities in a single class mashup the code and if any modification is required it might affect
-the whole class.
-
-It precise the code and the code can be easily maintained.

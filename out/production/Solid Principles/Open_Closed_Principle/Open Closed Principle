@@ -1,5 +1,0 @@
-The open closed principle states that software entities (classes,modules,functions etc) should be open for extension
-but closed for modification.
-
-This means that that you should be able to extend the behaviour of a class without modifying its source code.
-
